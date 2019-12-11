@@ -1,0 +1,7 @@
+{
+  "timestamp": "2019-12-11T02:52:04.652+0000",
+  "status": 500,
+  "error": "Internal Server Error",
+  "message": "No instances available for demo",
+  "path": "/test"
+}
